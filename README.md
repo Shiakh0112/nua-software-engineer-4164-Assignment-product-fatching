@@ -1,5 +1,5 @@
 # ShopEasy - E-Commerce Website
-
+##Deploye:-
 ## Project Overview
 ShopEasy is a modern e-commerce website built with React, Redux Toolkit, and Tailwind CSS. 
 It provides product browsing, cart management, user authentication, and checkout functionality.
@@ -21,7 +21,7 @@ React 18 | Redux Toolkit | React Router v6 | Tailwind CSS | Fake Store API
 Authentication: localStorage (simulated)
 
 ## Installation
-1. Clone the repo: `git clone https://github.com/yourusername/ecommerce-app.git`
+1. Clone the repo: `https://github.com/Shiakh0112/nua-software-engineer-4164-Assignment-product-fatching`
 2. Navigate: `cd ecommerce-app`
 3. Install dependencies: `npm run dev`
 4. Start server: `npm start`
