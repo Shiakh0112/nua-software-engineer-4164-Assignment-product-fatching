@@ -1,5 +1,5 @@
 # ShopEasy - E-Commerce Website
-##Deploye:-
+##Deploye:- https://nua-software-engineer-4164-assignme.vercel.app/
 ## Project Overview
 ShopEasy is a modern e-commerce website built with React, Redux Toolkit, and Tailwind CSS. 
 It provides product browsing, cart management, user authentication, and checkout functionality.
